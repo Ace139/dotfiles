@@ -1,2 +1,3 @@
-# vim
-Personal VIM settings
+# dotfiles
+
+Personal configuration files of my system
